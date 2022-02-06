@@ -1,0 +1,2 @@
+# malbash
+malicious bash scripts
