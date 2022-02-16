@@ -26,7 +26,7 @@ modification, are permitted provided that the following conditions are met:
    Federal Republic of Germany.
 
 5. This source code may not be bundled or sold with non - open source
-   Software or as part of a commercial product.
+   Software or as part of a commercial product or service.
 
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
 AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
