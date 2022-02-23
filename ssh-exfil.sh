@@ -99,6 +99,9 @@ curl https://webhook.site/REDACTED-TO-BE-PERSONALIZED -F f=@./work.log
 #			https://linux.die.net/man/1/curl
 #			curl manpages
 
+#	Another option would be to use wsend:
+#	See:	https://github.com/abemassry/wsend/issues/21#issuecomment-1048395716
+#	Tho I'd seriously disrecommend it for said purpose.
 
 
 ##	cleanup
