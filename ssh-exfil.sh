@@ -83,6 +83,9 @@ touch ./work.log
 	whoami
 #		Find the current user running it.
 
+	ip link && ip neigh && ip route && ip rule && ip maddress && ip address
+#		Collecting further network info
+
 } 2>&1 | tee -a ./work.log
 #	closing the log and saving it
 
